@@ -4,6 +4,7 @@
 	<maintainer type="person">
 		<email>contact@sphilip.com</email>
 	</maintainer>
+	<remote-id type="github">ilhooq/Notes-up</remote-id>
 	<longdescription lang="en">
 	Markdown notes editor and notes manager 
 	</longdescription>
