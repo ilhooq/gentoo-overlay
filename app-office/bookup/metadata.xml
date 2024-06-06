@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>contact@sphilip.com</email>
+	</maintainer>
+	<remote-id type="gnome-gitlab">ilhooq/bookup</remote-id>
+	<longdescription lang="en">
+    A note-taking application that streamlines the process with the use of markdown syntax.
+	</longdescription>
+</pkgmetadata>
